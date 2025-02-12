@@ -3,7 +3,9 @@
 [![CI Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/dreamhouse-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/dreamhouse-lwc)
 
 > [!IMPORTANT]
-> This is the modern Lightning Web Components version of the Dreamhouse sample application. If you are looking for the legacy Aura version, click [here](https://github.com/dreamhouseapp/dreamhouse-sfdx).
+> This is the modern Lightning Web Components version of the Dreamhouse sample application. If you are looking for the legacy Aura version, click [here](https://github.com/trailheadapps/dreamhouse-sfdx).
+
+# JT is not a developer but sometimes adds pointless lines to his apex code to test
 
 ![dreamhouse-logo](dreamhouse-logo.png)
 
@@ -53,7 +55,7 @@ Dreamhouse is a sample application that demonstrates the unique value propositio
 1. Clone this repository:
 
     ```
-    git clone https://github.com/dreamhouseapp/dreamhouse-lwc
+    git clone https://github.com/trailheadapps/dreamhouse-lwc
     cd dreamhouse-lwc
     ```
 
@@ -136,7 +138,7 @@ Make sure to start from a brand-new environment to avoid conflicts with previous
 1. Clone this repository:
 
     ```
-    git clone https://github.com/dreamhouseapp/dreamhouse-lwc
+    git clone https://github.com/trailheadapps/dreamhouse-lwc
     cd dreamhouse-lwc
     ```
 
